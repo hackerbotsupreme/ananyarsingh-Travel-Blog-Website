@@ -8,3 +8,7 @@ Our travel guides take you off the beaten paths, to our favorite secret spots, d
 
 ![Travel_Blog_sliderr-min](https://user-images.githubusercontent.com/66235628/83712956-8524f480-a644-11ea-9a5b-391456610960.gif)
 
+2) Blog posts :
+
+![Travel_Blog_content_](https://user-images.githubusercontent.com/66235628/83714290-f5814500-a647-11ea-8cc4-56960c007d28.gif)
+
