@@ -3,7 +3,7 @@ This is a travel blog website for people like you. Made with Javascript, HTML, C
 
 Our travel guides take you off the beaten paths, to our favorite secret spots, design destinations, and the places to be.We love fashion, design, great food and even better coffee, and we show you the places that do the same.
 
-# Here is the quick demo :
+# Here is the quick demo of the website :
 1) Slider with introduction :
 
 ![Travel_Blog_slidertext_2](https://user-images.githubusercontent.com/66235628/83714967-eb604600-a649-11ea-8dcb-e05d59103451.gif)
@@ -12,7 +12,9 @@ Our travel guides take you off the beaten paths, to our favorite secret spots, d
 
 ![Travel_Blog_content_](https://user-images.githubusercontent.com/66235628/83714290-f5814500-a647-11ea-8cc4-56960c007d28.gif)
 
-3)Photo Gallery :
+3) Photo Gallery :
+
+![Travel_Blog_gallery-min](https://user-images.githubusercontent.com/66235628/83715512-27e07180-a64b-11ea-8c5d-d6eba5932e90.gif)
 
 
 
